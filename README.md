@@ -35,16 +35,16 @@ Raport został przygotowany tak, aby kolejne okresy były automatycznie uwzględ
 ## Podgląd raportu
 
 ### Podstawowe wskaźniki
-![Podstawowe wskaźniki](screenshots/bazowy.png)
+![Podstawowe wskaźniki](data/screenshots/bazowy.png)
 
 ### Efekty działań windykacyjnych
-![Efekty działań windykacyjnych](screenshots/efekty.png)
+![Efekty działań windykacyjnych](data/screenshots/efekty.png)
 
 ### Podsumowanie
-![Podsumowanie](screenshots/podsumowanie.png)
+![Podsumowanie](data/screenshots/podsumowanie.png)
 
 ### Analiza istotności
-![Analiza istotności](screenshots/istotnosc.png)
+![Analiza istotności](data/screenshots/istotnosc.png)
 
 ## Technologie
 
