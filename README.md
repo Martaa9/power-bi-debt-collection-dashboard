@@ -34,14 +34,17 @@ Raport został przygotowany tak, aby kolejne okresy były automatycznie uwzględ
 
 ## Podgląd raportu
 
-### Podsumowanie należności
-![Podsumowanie należności]()
+### Podstawowe wskaźniki
+![Podstawowe wskaźniki](screenshots/bazowy.png)
 
-### Analiza dłużników
-![Analiza dłużników]()
+### Efekty działań windykacyjnych
+![Efekty działań windykacyjnych](screenshots/efekty.png)
 
-### Działania windykacyjne
-![Działania windykacyjne]()
+### Podsumowanie
+![Podsumowanie](screenshots/podsumowanie.png)
+
+### Analiza istotności
+![Analiza istotności](screenshots/istotnosc.png)
 
 ## Technologie
 
