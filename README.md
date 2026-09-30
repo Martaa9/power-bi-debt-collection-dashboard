@@ -32,6 +32,17 @@ W Power Query przygotowany został proces importu, łączenia i transformacji da
 
 Raport został przygotowany tak, aby kolejne okresy były automatycznie uwzględniane po zapisaniu nowych plików źródłowych w odpowiednim folderze. W przygotowaniu danych uwzględniono również reguły porządkujące zmiany nazw klientów oraz mapowanie danych po NIP, tak aby zachować spójność informacji pomiędzy kolejnymi okresami raportowymi.
 
+## Podgląd raportu
+
+### Podsumowanie należności
+![Podsumowanie należności]()
+
+### Analiza dłużników
+![Analiza dłużników]()
+
+### Działania windykacyjne
+![Działania windykacyjne]()
+
 ## Technologie
 
 * Power BI
